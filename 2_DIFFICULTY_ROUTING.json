@@ -1,0 +1,21 @@
+{
+  "levels": {
+    "easy": "UniTera AI may execute",
+    "easy_moderate": "UniTera AI may execute",
+    "moderate": "Dynamic routing based on computational/scientific requirements",
+    "hard": "Unico. Simulation",
+    "ultra_hard": "Unico. Simulation",
+    "multi_science_extreme": "Unico. Simulation"
+  },
+  "routing_factors": [
+    "computational_cost",
+    "object_count",
+    "scientific_coupling",
+    "precision_requirement",
+    "time_scale",
+    "memory_state",
+    "iteration_count",
+    "requested_fidelity"
+  ],
+  "source_of_truth": "Unico. Simulation"
+}

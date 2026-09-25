@@ -1,0 +1,31 @@
+{
+  "status": "LOCKED",
+  "android_first": true,
+  "ultra_hard_must_remain_functional": true,
+  "adaptive_strategies": [
+    "adaptive_resolution",
+    "adaptive_representation",
+    "adaptive_timestep",
+    "cpu_parallelism",
+    "gpu_acceleration",
+    "memory_management",
+    "progressive_execution",
+    "checkpointing"
+  ],
+  "rule": "Adaptive does not mean fake.",
+  "reduced_fidelity_must_be_labelled": true,
+  "scientific_labels": [
+    "Observed",
+    "Calculated",
+    "Simulated",
+    "Approximate",
+    "Uncertain",
+    "Hypothetical",
+    "Reduced Fidelity"
+  ],
+  "reference_data": {
+    "preserve_original": true,
+    "use_separate_working_state": true,
+    "overwrite_original": false
+  }
+}

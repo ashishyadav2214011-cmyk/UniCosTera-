@@ -1,0 +1,14 @@
+{
+  "status": "LOCKED",
+  "principle": "User directly controls scientifically meaningful parameters where applicable.",
+  "controls": [
+    "zoom_minus", "zoom_plus", "mass_minus", "mass_plus",
+    "gravity_minus", "gravity_plus", "distance", "velocity",
+    "time_speed", "precision", "fidelity", "scale",
+    "interaction_strength", "temperature", "atmospheric_properties",
+    "chemical_composition", "biological_parameters"
+  ],
+  "contextual_controls": true,
+  "silent_ai_parameter_changes": false,
+  "cause_consequence_rule": "User controls the cause; Unico. Simulation calculates consequences."
+}

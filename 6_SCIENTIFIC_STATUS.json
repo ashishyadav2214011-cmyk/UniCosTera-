@@ -1,0 +1,17 @@
+{
+  "labels": [
+    "Observed",
+    "Calculated",
+    "Simulated",
+    "Approximate",
+    "Uncertain",
+    "Hypothetical",
+    "Reduced Fidelity"
+  ],
+  "requirements": {
+    "status_visible_when_relevant": true,
+    "uncertainty_preserved": true,
+    "approximation_disclosed": true,
+    "hypothetical_not_presented_as_observed": true
+  }
+}

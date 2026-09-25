@@ -1,0 +1,32 @@
+{
+  "registry_status": "foundation",
+  "source_of_truth": "Unico. Simulation",
+  "domains": [
+    "physics",
+    "gravitation",
+    "astronomy_astrophysics",
+    "chemistry",
+    "molecular_science",
+    "thermodynamics",
+    "fluid_dynamics",
+    "electromagnetism",
+    "nuclear_particle_physics",
+    "atmospheric_science",
+    "environmental_science",
+    "biology",
+    "ecology",
+    "materials_condensed_matter"
+  ],
+  "model_metadata_required": [
+    "model_id",
+    "domain",
+    "applicability",
+    "assumptions",
+    "validity_range",
+    "precision",
+    "uncertainty",
+    "dependencies",
+    "scientific_status"
+  ],
+  "implementation_status": "models must be implemented and validated before production claims"
+}

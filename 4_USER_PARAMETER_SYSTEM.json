@@ -1,0 +1,25 @@
+{
+  "principle": "User controls the cause; Unico. Simulation calculates consequences.",
+  "contextual_controls": [
+    "zoom",
+    "mass",
+    "gravity",
+    "distance",
+    "velocity",
+    "time_speed",
+    "precision",
+    "fidelity",
+    "scale",
+    "interaction_strength",
+    "temperature",
+    "atmospheric_properties",
+    "chemical_composition",
+    "biological_parameters"
+  ],
+  "rules": {
+    "controls_are_contextual": true,
+    "ai_silent_parameter_change": false,
+    "simulation_calculates_consequences": true,
+    "scientific_validity_required": true
+  }
+}

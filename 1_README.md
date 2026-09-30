@@ -1,8 +1,20 @@
-# UniCosTera — Phase 1
+# UniCosTera — Home Page Package
 
-Locked foundation package for the UniCosTera mobile-first scientific simulation platform.
+Platform: UniCosTera
+AI: UniTera AI
+Simulation: Unico. Simulation
 
-Core flow:
-USER → UniTera AI → Unico. Simulation → Scientific State/Result → UniTera AI → USER
+Primary actions:
+- Start Universe
+- Explore Cosmos
+- New Experiment
 
-Phase 1 establishes the architecture contract only. Scientific engines are not falsely represented as complete.
+Locked principles:
+- Mobile-first
+- Offline-first
+- User privacy and user control
+- Protected real/reference state
+- Independent experimental copy
+- Scientific status labels
+- Adaptive performance without fake results
+- Phase 1–3 decisions remain authoritative

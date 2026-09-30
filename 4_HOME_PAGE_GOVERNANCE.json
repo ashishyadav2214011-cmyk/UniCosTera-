@@ -1,0 +1,11 @@
+{
+  "privacy_priority": ["USER PRIVACY", "USER CONTROL", "UniTera AI", "SPECIALIST ENGINES"],
+  "default_ai_access_to_personal_data": false,
+  "reference_state_protected": true,
+  "experimental_copy": "single independent copy of relevant reference state",
+  "scientific_status_labels": ["Observed", "Calculated", "Simulated", "Approximate", "Uncertain", "Hypothetical", "Reduced Fidelity"],
+  "offline_first": true,
+  "android_first": true,
+  "adaptive_performance": true,
+  "no_silent_fabrication": true
+}

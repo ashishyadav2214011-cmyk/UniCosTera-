@@ -1,0 +1,25 @@
+{
+  "product": "UniCosTera",
+  "ai": "UniTera AI",
+  "simulation": "Unico. Simulation",
+  "primary_actions": ["Start Universe", "Explore Cosmos", "New Experiment"],
+  "sections": [
+    "UniTera AI",
+    "Simulation",
+    "Experiment",
+    "Timeline",
+    "Life & Habitability",
+    "Observer",
+    "Global Controls"
+  ],
+  "visual_flow": [
+    "Early Universe",
+    "Particles",
+    "Atoms",
+    "Stars",
+    "Galaxies",
+    "Planets",
+    "Life",
+    "Intelligence"
+  ]
+}
